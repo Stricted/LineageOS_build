@@ -1,0 +1,9 @@
+[
+	{
+		"device": "serranoltexx",
+		"build_type": "userdebug",
+		"with_su": "true",
+		"with_dexpreopt": "false",
+		"with_oms": "true"
+	}
+]
