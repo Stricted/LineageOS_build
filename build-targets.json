@@ -5,5 +5,12 @@
 		"with_su": "true",
 		"with_dexpreopt": "false",
 		"with_oms": "true"
+	},
+	{
+		"device": "s5neoltexx",
+		"build_type": "userdebug",
+		"with_su": "false",
+		"with_dexpreopt": "false",
+		"with_oms": "false"
 	}
 ]
