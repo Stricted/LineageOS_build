@@ -1,6 +1,7 @@
 [
 	{
 		"device": "serranoltexx",
+		"version": "14.1",
 		"build_type": "userdebug",
 		"with_su": "true",
 		"with_dexpreopt": "false",
@@ -8,6 +9,7 @@
 	},
 	{
 		"device": "s5neoltexx",
+		"version": "14.1",
 		"build_type": "userdebug",
 		"with_su": "false",
 		"with_dexpreopt": "false",
@@ -15,6 +17,7 @@
 	},
 	{
 		"device": "a3xeltexx",
+		"version": "14.1",
 		"build_type": "userdebug",
 		"with_su": "false",
 		"with_dexpreopt": "false",
@@ -22,6 +25,7 @@
 	},
 	{
 		"device": "a5xeltexx",
+		"version": "14.1",
 		"build_type": "userdebug",
 		"with_su": "false",
 		"with_dexpreopt": "false",
