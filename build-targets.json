@@ -5,7 +5,7 @@
 		"build_type": "userdebug",
 		"with_su": "true",
 		"with_dexpreopt": "false",
-		"with_oms": "true"
+		"with_oms": "false"
 	},
 	{
 		"device": "s5neoltexx",
