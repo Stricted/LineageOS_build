@@ -22,13 +22,5 @@
 		"with_su": "false",
 		"with_dexpreopt": "false",
 		"with_oms": "false"
-	},
-	{
-		"device": "a5xeltexx",
-		"version": "14.1",
-		"build_type": "userdebug",
-		"with_su": "false",
-		"with_dexpreopt": "false",
-		"with_oms": "false"
 	}
 ]
